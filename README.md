@@ -35,11 +35,11 @@ python nome-do-arquivo.py
 
 - [x] Instalação do Python
 - [x] Configuração do ambiente (VS Code)
-- [ ] Dominar listas e tuplas
-- [ ] Dominar dicionários
-- [ ] Criar funções complexas
-- [ ] Completar 10 exercícios
-- [ ] Criar primeiro projeto
+- [x] Dominar listas e tuplas
+- [x] Dominar dicionários
+- [x] Criar funções complexas
+- [x] Completar 10 exercícios
+- [] Criar primeiro projeto
 
 ## 🛠️ Ferramentas Utilizadas
 
